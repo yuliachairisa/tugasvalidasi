@@ -1,2 +1,0 @@
-# tugasvalidasi
-tugas pemrograman web
